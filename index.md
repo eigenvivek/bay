@@ -106,18 +106,18 @@ I am a third-year PhD candidate at MIT CSAIL advised by Dr. Polina Golland. Moti
 <div class="image-text-block">
   <img src="/assets/img/xellar.gif" alt="zstacks">
   <div>
-    <p><strong class="strong-title"><a href="#">Learning Interpretable Single-Cell Morphological Profiles from 3D Cell Painting Images</a></strong></p>
+    <p><strong class="strong-title"><a href="https://github.com/eigenvivek/zlearn">Learning Interpretable Single-Cell Morphological Profiles from 3D Cell Painting Images</a></strong></p>
     <p class="author-list">
       <b>Vivek Gopalakrishnan</b>,
-      <a href="https://www.linkedin.com/in/jingzhe-ma">Jingzhe Ma</a>
+      <a href="https://www.linkedin.com/in/jingzhe-ma">Jingzhe Ma</a>,
       <a href="https://scholar.google.com/citations?user=0DsebPAAAAAJ">Zhiyong Xie</a>
     </p>
     <p class="journal-year"><em>Society of Biomolecular Imaging and Informatics</em>, 2023 <b>(President's Innovation Award)</b></p>
     <div class="links">
-      <a href="#">project page</a> /
-      <a href="https://heyzine.com/flip-book/620e87244e.html#page/31">paper</a> 
+      <a href="https://github.com/eigenvivek/zlearn">project page</a> /
+      <a href="https://heyzine.com/flip-book/620e87244e.html#page/31">proceedings</a> 
     </div>
-    <p>We identify a mechanism by which commonly used deep learning algorithms in drug discovery cheat.</p>
+    <p>Supervised deep learning models are ubiquitiously used in drug discovery. We discover a mechanism by which these models cheat and propose an interpretability metric to quantify the level of confounding.</p>
   </div>
 </div>
 
