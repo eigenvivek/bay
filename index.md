@@ -62,12 +62,12 @@ I am a third-year PhD candidate at MIT CSAIL advised by Dr. Polina Golland. Moti
 </style>
 
 
-### Differentiable Rendering
+### Differentiable Rendering + Surgery
 
 <div class="image-text-block">
   <img src="/assets/img/diffpose.gif" alt="pelvis.html">
   <div>
-    <p><strong class="strong-title"><a href="#">Intraoperative 2D/3D Image Registration via Differentiable X-ray Rendering</a></strong></p>
+    <p><strong class="strong-title"><a href="https://arxiv.org/abs/2312.06358">Intraoperative 2D/3D Image Registration via Differentiable X-ray Rendering</a></strong></p>
     <p class="author-list">
       <b>Vivek Gopalakrishnan</b>,
       <a href="https://www.neeldey.com/">Neel Dey</a>,
@@ -77,14 +77,14 @@ I am a third-year PhD candidate at MIT CSAIL advised by Dr. Polina Golland. Moti
     <div class="links">
       <a href="https://vivekg.dev/DiffPose">project page</a> / 
       <a href="https://github.com/eigenvivek/DiffPose">code</a> / 
-      <a href="">paper</a>
+      <a href="https://arxiv.org/abs/2312.06358">paper</a>
     </div>
     <p>We use X-ray renderering to develop <code>DiffPose</code>, a self-supervised framework for differentiable 2D/3D image registration that achieves sub-millimeter registration accuracy.</p>
   </div>
 </div>
 
 <div class="image-text-block">
-  <img src="/assets/img/diffdrr.gif" alt="Your Image Alt Text 2">
+  <img src="/assets/img/diffdrr.gif" alt="woowoowooooo">
   <div>
     <p><strong class="strong-title"><a href="https://arxiv.org/abs/2208.12737">Fast Auto-Differentiable Digitally Reconstructed Radiographs for Solving Inverse Problems in Intraoperative Imaging</a></strong></p>
     <p class="author-list">
@@ -103,6 +103,78 @@ I am a third-year PhD candidate at MIT CSAIL advised by Dr. Polina Golland. Moti
 
 ### Drug Discovery
 
+<div class="image-text-block">
+  <img src="/assets/img/xellar.gif" alt="zstacks">
+  <div>
+    <p><strong class="strong-title"><a href="#">Learning Interpretable Single-Cell Morphological Profiles from 3D Cell Painting Images</a></strong></p>
+    <p class="author-list">
+      <b>Vivek Gopalakrishnan</b>,
+      <a href="https://www.linkedin.com/in/jingzhe-ma">Jingzhe Ma</a>
+      <a href="https://scholar.google.com/citations?user=0DsebPAAAAAJ">Zhiyong Xie</a>
+    </p>
+    <p class="journal-year"><em>Society of Biomolecular Imaging and Informatics</em>, 2023 <b>(President's Innovation Award)</b></p>
+    <div class="links">
+      <a href="#">project page</a> /
+      <a href="https://heyzine.com/flip-book/620e87244e.html#page/31">paper</a> 
+    </div>
+    <p>We identify a mechanism by which commonly used deep learning algorithms in drug discovery cheat.</p>
+  </div>
+</div>
+
+### Statistical Graph Theory
+
+<div class="image-text-block">
+  <img src="/assets/img/corpus-callosum.png" alt="corpus callosum">
+  <div>
+    <p><strong class="strong-title"><a href="https://arxiv.org/abs/2011.14990">Multiscale Comparative Connectomics</a></strong></p>
+    <p class="author-list">
+      <b>Vivek Gopalakrishnan</b>,
+      <a href="https://j1c.me/">Jaewon Chung</a>,
+      <a href="https://ericwb.me/">Eric Bridgeford</a>,
+      <a href="https://bdpedigo.github.io/">Benjamin D. Pedigo</a>,
+      <a href="https://jesus-arroyo.github.io/">Jesús Arroyo</a>,
+      <a href="https://www.linkedin.com/in/lucy-upchurch-a56a141">Lucy Upchurch</a>,
+      <a href="https://bme.duke.edu/faculty/allan-johnson">G. Allan Johnson</a>,
+      <a href="https://medicine.iu.edu/faculty/48212/wang-nian">Nian Wang</a>,
+      <a href="https://www.ams.jhu.edu/~priebe/">Carey E. Priebe</a>,
+      <a href="https://jovo.me/">Joushua T. Vogelstein</a>
+    </p>
+    <p class="journal-year"><em>arXiv</em>, 2021</p>
+    <div class="links">
+      <a href="https://github.com/neurodata/MCC">code</a> /
+      <a href="https://arxiv.org/abs/2011.14990">paper</a>
+    </div>
+    <p>
+    We introduce a set of multiscale hypothesis tests to facilitate the robust and reproducible discovery of hierarchical brain structures that vary in relation with phenotypic profiles.
+    </p>
+  </div>
+</div>
+
+<div class="image-text-block">
+  <img src="/assets/img/statistical-connectomics.png" alt="ASE clustering">
+  <div>
+    <p><strong class="strong-title"><a href="https://www.annualreviews.org/doi/abs/10.1146/annurev-statistics-042720-023234">Statistical  Connectomics</a></strong></p>
+    <p class="author-list">
+      <a href="https://j1c.me/">Jaewon Chung</a>,
+      <a href="https://ericwb.me/">Eric Bridgeford</a>,
+      <a href="https://jesus-arroyo.github.io/">Jesús Arroyo</a>,
+      <a href="https://bdpedigo.github.io/">Benjamin D. Pedigo</a>,
+      <a href="https://www.linkedin.com/in/ali-saad-eldin-09250317b">Ali Saad-Eldin</a>,
+      <b>Vivek Gopalakrishnan</b>,
+      <a href="#">Ling Xiang</a>,
+      <a href="https://www.ams.jhu.edu/~priebe/">Carey E. Priebe</a>,
+      <a href="https://jovo.me/">Joushua T. Vogelstein</a>
+    </p>
+    <p class="journal-year"><em>Annual Review of Statistics and Its Application</em>, 2021</p>
+    <div class="links">
+      <a href="https://github.com/microsoft/graspologic">code</a> /
+      <a href="https://www.annualreviews.org/doi/abs/10.1146/annurev-statistics-042720-023234">paper</a>
+    </div>
+    <p>From a statistical graph theory perspective, we review models, assumptions, problems, and applications that are theoretically and empirically justified for analysis of connectome data.</p>
+  </div>
+</div>
+
+<!-- ### Survival Analysis -->
 
 <!-- My interests lie in the following areas in medicine and machine learning:
 
